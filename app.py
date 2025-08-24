@@ -26,7 +26,7 @@ st.markdown("""
 st.subheader("lookout first sight of your apartment ")
 ########
 
-files=glob("data\\buenos-aires-real-*")
+files=glob("data/buenos-aires-real-*")
  
 
 def wrangle(filepath):
